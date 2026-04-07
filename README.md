@@ -11,7 +11,7 @@ I'm Hazem, a Software Engineering Student at Concordia University!
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a 4th-year Software Engineering student at Concordia University (Co-operative Education) with a passion for building robust, well-tested software. I specialize in **full-stack development with the T3 Stack (Next.js, TypeScript, tRPC, Tailwind)** and have a strong foundation in **Python, OOP, unit testing, Linux/UNIX, and Agile practices**. I thrive on solving challenging problems, writing clean code, and continuously learning.
+I am a passionate Software Engineer with a B.Eng. in Software Engineering (Co-op) from Concordia University. I specialize in **full-stack development with the T3 Stack (Next.js, TypeScript, tRPC, Tailwind)** and have a strong foundation in **Python, OOP, unit testing, Linux/UNIX, and Agile practices**. With hands-on experience building and maintaining production applications, designing comprehensive test suites, and working with CI/CD pipelines, I thrive on solving challenging problems and writing clean, maintainable code.
 
 ### GitHub
 <div align="center">
@@ -27,16 +27,15 @@ I am a 4th-year Software Engineering student at Concordia University (Co-operati
  <details>
   <summary><h4>🎓 Education</h4></summary>
 
-  - **B.Eng. Software Engineering (Co-op)** — Concordia University | Expected 2026
-    - Nearly all credits completed
-    - Relevant coursework: Software Testing & Verification, Object-Oriented Design, Data Structures & Algorithms, Technical Writing (ENGR 411)
+  - **B.Eng. Software Engineering (Co-op)** — Concordia University
+    - Relevant coursework: Software Testing & Verification, Object-Oriented Design, Data Structures & Algorithms
 
   </details>
 
   <details>
   <summary><h4>💼 Experience</h4></summary>
 
-  - **Software Engineering Student / Developer** | Concordia University Co-op
+  - **Software Engineer** | Full-Stack Development
     - Built and maintained full-stack applications using the T3 stack (Next.js, TypeScript, tRPC, Prisma, Tailwind CSS)
     - Designed and implemented comprehensive Jest test suites, resolving complex testing challenges including `act()` wrappers, JSX compilation, and infinite re-render bugs
     - Applied Agile methodologies and CI/CD workflows with Prettier, ESLint, and Turborepo
@@ -95,7 +94,7 @@ I am a 4th-year Software Engineering student at Concordia University (Co-operati
  </a>
 </p>
 
-## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
+## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Let Me Tell You a Joke
 
 <details>
   <summary>Click to see a random joke</summary>
@@ -103,5 +102,41 @@ I am a 4th-year Software Engineering student at Concordia University (Co-operati
    
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
   
+  [![Another Joke 😂](https://img.shields.io/badge/Another_Joke-😂-blue?style=for-the-badge)](https://readme-jokes.vercel.app/api?theme=halloween)
+  
   </div>
 </details>
+
+---
+
+### 📊 Activity Overview
+
+<div align="center">
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazem-Horus&theme=tokyonight)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hazem-Horus&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hazem-Horus&theme=tokyonight)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hazem-Horus&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hazem-Horus&theme=tokyonight&utcOffset=-5)
+
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazem-Horus/Hazem-Horus/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazem-Horus/Hazem-Horus/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hazem-Horus/Hazem-Horus/output/github-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+  [![🌐 VISIT MY WEBSITE](https://img.shields.io/badge/🌐_VISIT_MY_WEBSITE-hazemm.com-blue?style=for-the-badge&labelColor=000000&color=0077B5)](https://hazemm.com/)
+
+</div>
