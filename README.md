@@ -4,6 +4,7 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-mohamed-573169269/)
 [![WEBSITE](https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logo=About.me&logoColor=white)](https://hazemm.com/)
+[![UPWORK](https://img.shields.io/badge/UPWORK-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01576d40861fb3624f)
 
 I'm Hazem, a Software Engineer Made in Egypt assembled in Canada
 
