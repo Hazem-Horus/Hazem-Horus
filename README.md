@@ -5,7 +5,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-mohamed-573169269/)
 [![WEBSITE](https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logo=About.me&logoColor=white)](https://hazemm.com/)
 
-I'm Hazem, a Software Engineering Student at Concordia University!
+I'm Hazem, a Software Engineer Made in Egypt assembled in Canada
 
 </div>
 
