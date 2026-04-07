@@ -126,9 +126,11 @@ I am a passionate Software Engineer with a B.Eng. in Software Engineering (Co-op
 ---
 
 <div align="center">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hazem-Horus/Hazem-Horus/output/github-snake-dark.gif" alt="snake animation" />
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazem-Horus/Hazem-Horus/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazem-Horus/Hazem-Horus/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Hazem-Horus/Hazem-Horus/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
