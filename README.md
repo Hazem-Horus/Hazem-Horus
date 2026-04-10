@@ -12,7 +12,7 @@ I'm Hazem, a Software Engineer Made in Egypt assembled in Canada
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Software Engineer with a B.Eng. in Software Engineering (Co-op) from Concordia University. I specialize in **full-stack development with the T3 Stack (Next.js, TypeScript, tRPC, Tailwind)** and have a strong foundation in **Python, OOP, unit testing, Linux/UNIX, and Agile practices**. With hands-on experience building and maintaining production applications, designing comprehensive test suites, and working with CI/CD pipelines, I thrive on solving challenging problems and writing clean, maintainable code.
+I am a passionate Software Engineer with a B.Eng. in Software Engineering (Co-op) from Concordia University. I specialize in **full-stack development with the T3 Stack (Next.js, TypeScript, tRPC, Tailwind)** and have a strong foundation in **Python, OOP, unit testing, Linux/UNIX, and Agile practices**. With hands on experience building and maintaining production applications, designing comprehensive test suites, and working with CI/CD pipelines, I thrive on solving challenging problems and writing clean, maintainable code.
 
 ### GitHub
 <div align="center">
