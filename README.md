@@ -113,10 +113,14 @@ I am a passionate Software Engineer with a B.Eng. in Software Engineering (Co-op
 ### 📊 Activity Overview
 
 <div align="center">
+  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazem-Horus&theme=tokyonight)
+  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hazem-Horus&theme=tokyonight)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hazem-Horus&theme=tokyonight)
 
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hazem-Horus&theme=tokyonight)
+  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hazem-Horus&theme=tokyonight)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hazem-Horus&theme=tokyonight&utcOffset=-5)
 
