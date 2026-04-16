@@ -17,7 +17,7 @@ I am a passionate Software Engineer with a B.Eng. in Software Engineering (Co-op
 ### GitHub
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=Hazem-Horus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Hazem-Horus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
   ![](https://streak-stats.demolab.com/?user=Hazem-Horus&theme=tokyonight&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Horus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
   ![](https://github-readme-activity-graph.vercel.app/graph?username=Hazem-Horus&theme=tokyo-night)
