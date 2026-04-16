@@ -12,7 +12,7 @@ I'm Hazem, a Software Engineer Made in Egypt assembled in Canada
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a motivated and experienced Software Engineer. I specialize in AI/ML development and DevOps engineering. I have experience in Python, TensorFlow, PyTorch, and scikit-learn for building and deploying machine learning models, as well as strong expertise in CI/CD pipelines, Docker, Kubernetes, and cloud infrastructure (AWS/GCP). With a solid foundation in Linux/UNIX, Infrastructure as Code, monitoring, and Agile practices, I thrive on automating workflows, optimizing ML pipelines, and building scalable, reliable systems from model to production.
+I am a motivated and experienced Software Engineer with over 3 years of experience. I specialize in AI/ML development and DevOps engineering. I have experience in Python, TensorFlow, PyTorch, and scikit-learn for building and deploying machine learning models, as well as strong expertise in CI/CD pipelines, Docker, Kubernetes, and cloud infrastructure (AWS/GCP). With a solid foundation in Linux/UNIX, Infrastructure as Code, monitoring, and Agile practices, I thrive on automating workflows, optimizing ML pipelines, and building scalable, reliable systems from model to production.
 
 ### GitHub
 <div align="center">
