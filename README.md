@@ -23,8 +23,8 @@ I am a passionate Software Engineer with a B.Eng. in Software Engineering (Co-op
   ![](https://github-readme-activity-graph.vercel.app/graph?username=Hazem-Horus&theme=tokyo-night)
 </div>
 
-<details>
- <summary><h2>📄 Resume</h2></summary>
+<details open>
+  <summary><h2>📄 Resume</h2></summary>
  <details>
   <summary><h4>🎓 Education</h4></summary>
 
@@ -97,7 +97,7 @@ I am a passionate Software Engineer with a B.Eng. in Software Engineering (Co-op
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Let Me Tell You a Joke
 
-<details>
+<details open>
   <summary>Click to see a random joke</summary>
   <div align="center">
    
